@@ -1,0 +1,28 @@
+# Build output
+bin/
+out/
+*.class
+
+# Eclipse metadata (.classpath has machine-specific absolute paths)
+.classpath
+.project
+.settings/
+
+# Generated Javadoc
+docs/
+
+# Scratch / run output files
+Output*.txt
+NoFiltered.txt
+Result.txt
+SystemB.txt
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
