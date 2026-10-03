@@ -17,6 +17,7 @@
 
   <build>
     <!-- Eclipse 시절 레이아웃(src/)을 그대로 유지 -->
+    <!-- Eclipse 외 타 IDE에서 Open하면 Error가 생기는 것을 막기 위함. -->
     <sourceDirectory>src</sourceDirectory>
   </build>
 </project>
